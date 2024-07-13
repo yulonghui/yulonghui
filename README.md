@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Longhui Yu
 - 👀 I’m interested in LLMs, Machine Reasoning, Scalable Oversight, Trustworthy AI, Human‑centric/Data‑centric AI, etc.
 - 🔭 I’m currently looking for a Ph.D. opportunity!
-- 📫 My email address is yulonghui@stu.pku.edu.cn
+- 📫 My email address is longhuiyu98@gmail.com
 
 <!---
 yulonghui/yulonghui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
