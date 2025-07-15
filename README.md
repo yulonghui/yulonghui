@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Longhui Yu
 - 👀 I’m interested in LLMs, Machine Reasoning, Scalable Oversight, Trustworthy AI, Human‑centric/Data‑centric AI, etc.
-- 🔭 I’m currently looking for a Ph.D. opportunity!
+- 🔭 I’m currently a Post-training researcher in KIMI.
 - 📫 My email address is longhuiyu98@gmail.com
 
 <!---
